@@ -1,1 +1,1 @@
-Chapter 1 = the awesome red chapter 
+chapter 1 = the purple chapter
